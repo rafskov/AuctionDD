@@ -1,0 +1,12 @@
+The purpose of this repo is to automate parts of the due diligence process for selecting properties to bid on in tax deed auctions in Northern California.
+
+Due Diligence includes:
+
+Getting a property address from the APN or parcel number
+Determining square feet, age, zoning of property
+Quering various county websites for code violations, bankruptcy actions or evidence of liens that may survive the auction
+Getting a picture of the property from Google Earth
+Determining who the owner and past residents are
+Determining the median rent per square foot in the zip code
+Determining rent near the property
+
